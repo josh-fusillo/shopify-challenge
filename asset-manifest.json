@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shopify-challenge/static/css/main.3f318a06.chunk.css",
-    "main.js": "/shopify-challenge/static/js/main.096796bf.chunk.js",
-    "main.js.map": "/shopify-challenge/static/js/main.096796bf.chunk.js.map",
+    "main.js": "/shopify-challenge/static/js/main.16c4373a.chunk.js",
+    "main.js.map": "/shopify-challenge/static/js/main.16c4373a.chunk.js.map",
     "runtime-main.js": "/shopify-challenge/static/js/runtime-main.0b8d698d.js",
     "runtime-main.js.map": "/shopify-challenge/static/js/runtime-main.0b8d698d.js.map",
     "static/js/2.d66a4235.chunk.js": "/shopify-challenge/static/js/2.d66a4235.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0b8d698d.js",
     "static/js/2.d66a4235.chunk.js",
     "static/css/main.3f318a06.chunk.css",
-    "static/js/main.096796bf.chunk.js"
+    "static/js/main.16c4373a.chunk.js"
   ]
 }
